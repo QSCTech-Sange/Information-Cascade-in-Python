@@ -16,4 +16,4 @@
 
 ## 使用方法
 
-请使用`Jupyter Notebook`打开本仓库里的文件。
+请使用`Jupyter Notebook`打开本仓库里的`Information Cascade in Python`。
