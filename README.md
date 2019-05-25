@@ -16,4 +16,8 @@
 
 ## 使用方法
 
-请使用`Jupyter Notebook`打开本仓库里的`Information Cascade in Python`。
+1. 请使用`Jupyter Notebook`打开本仓库里的`Information Cascade in Python`。
+
+2. 请使用`Jupyter Notebook`打开本仓库里的`Neural Network Version`。
+
+2. 如果你没有`Jupyter Notebook`的话，使用浏览器打开`slides version.slide.html`。
